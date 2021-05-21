@@ -3,4 +3,4 @@ In this MATLAB project, I used laplace transforms and forward/backwards differen
 
 
 
-SEE .pdf file for more project details 
+See .pdf file for full project details 
